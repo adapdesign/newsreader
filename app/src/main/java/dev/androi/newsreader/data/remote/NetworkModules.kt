@@ -6,7 +6,7 @@ import retrofit2.Retrofit
 import retrofit2.converter.moshi.MoshiConverterFactory
 
 object NetworkModule {
-    private const val BASE_URL = "http://192.241.211.171:3000/"
+    private const val BASE_URL = "http:/amadns.ddns.net:3000/"
 
     private val moshi = Moshi.Builder()
         .add(KotlinJsonAdapterFactory())
