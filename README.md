@@ -1,3 +1,8 @@
+<p float="left">
+<img src="https://github.com/adapdesign/newsreader/blob/main/images/app.png" alt="Alt text" width="300" />
+<img src="https://github.com/adapdesign/newsreader/blob/main/images/article.png" alt="Alt text" width="300" />
+</p>
+
 ## Building NewsReader — a developer’s story
 
 It began as a weekend itch: build something useful that demonstrated end‑to‑end engineering — networking, offline, sync, and a little personalization. The idea settled on a compact goal: an offline‑first NewsReader with an admin panel, lightweight personalization, and a clean Android + web surface to show decisions and trade‑offs.
