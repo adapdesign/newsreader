@@ -1,3 +1,6 @@
+### [Click for Live Demo](https://appetize.io/app/b_i23l5equ57sbyz3kc63zoxykha)
+
+## Screenshots
 <p float="left">
 <img src="https://github.com/adapdesign/newsreader/blob/main/images/app.png" alt="Alt text" width="300" />
 <img src="https://github.com/adapdesign/newsreader/blob/main/images/article.png" alt="Alt text" width="300" />
