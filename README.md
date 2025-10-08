@@ -5,7 +5,7 @@
 
 ## Building NewsReader — a developer’s story
 
-It began as a weekend itch: build something useful that demonstrated end‑to‑end engineering — networking, offline, sync, and a little personalization. The idea settled on a compact goal: an offline‑first NewsReader with an admin panel, lightweight personalization, and a clean Android + web surface to show decisions and trade‑offs.
+It began as a weekend itch: build something useful that demonstrated end‑to‑end engineering — networking, offline, sync, and a little personalization. The idea settled on a compact goal: an offline‑first NewsReader, lightweight personalization, and a clean Android + web surface to show decisions and trade‑offs.
 
 ### Day 1 — Project Skeleton
 
